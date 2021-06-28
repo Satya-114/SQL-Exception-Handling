@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Exception handling", "SQL Exception handling\SQL Exception handling.ssmssqlproj", "{71EE6834-582B-44DC-8E3A-933292397AC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71EE6834-582B-44DC-8E3A-933292397AC8}.Default|Default.ActiveCfg = Default
+		{283A3B59-ABAE-479B-8D5C-83B9BD780F15}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CB44E3E-65FC-4378-B638-0437F4E22EC9}
+	EndGlobalSection
+EndGlobal
